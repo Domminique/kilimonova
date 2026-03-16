@@ -17,7 +17,7 @@ Smallholder farmers in Western Kenya face Triple Threat: Climate shifts, devasta
 
 
   ## Quick Start
-  * Clone https://github.com/Domminique/kilimonova/edit/main/README.md
+  * Clone https://github.com/Domminique/kilimonova
   * AWS setup : Enable Amazon Nova-Micro and deploy Lambda
   * Env variables, your AT_API_KEY
   * USSD , connect your AFrica's Talking callback URL to the Lambda API Gateway
